@@ -1,0 +1,15 @@
+{
+    "name": "ilyaiz1/php-censure",
+    "type": "library",
+    "description": "A fork of rin-nas/php-censure with composer.json",
+    "authors": [
+        {
+            "name": "Zaporozhets Ilya"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+           "Diff": "lib/"
+        }
+    }
+}
